@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bryanpiguave
-- 👀 I’m interested in becoming a Data Scientist
+- 👀 I’m a Data Scientist in INARI LAB 
 - 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on Research Papers related to computer vision and Deep Learning
 - 📫 You contact me by email: bryanpiguavellano@gmail.com
