@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bryanpiguave
-- 👀 I’m a Data Scientist in INARI LAB 
+- 👋 Hi, I’m Bryan Piguve
+- 👀 I’m a Data Scientist in [INARILAB](https://inarilab.com/)
 - 🌱 I’m currently learning Javascript and C++
-- 💞️ I’m looking to collaborate on Research Papers related to computer vision and Deep Learning
-- 📫 You contact me by email: bryanpiguavellano@gmail.com
+- 💞️ Eager to collaborate on Research Papers related to computer vision and Deep Learning
+- 📫 You contact me by email: bryanpiguavellano@gmail.com or bpiguave@espol.edu.ec
 
 <!---
 bryanpiguave/bryanpiguave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
