@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryan Piguve
+- 👋 Hi, I’m Bryan Piguave
 - 👀 I’m a Data Scientist in [INARILAB](https://inarilab.com/)
 - 🌱 I’m currently learning Javascript and C++
 - 💞️ Eager to collaborate on Research Papers related to computer vision and Deep Learning
