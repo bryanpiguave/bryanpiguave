@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan Piguave
 - 👀 I’m a Data Scientist in [INARILAB](https://inarilab.com/)
-- 🌱 I’m currently learning Javascript and C++
+- 🌱 I’m currently learning Julia and C++
 - 💞️ Eager to collaborate on Research Papers related to computer vision and Deep Learning
 - 📫 You contact me by email: bryanpiguavellano@gmail.com, bpiguave@espol.edu.ec or bryan.piguave@eastern.edu
 
